@@ -1,0 +1,6 @@
+Tačnost modela je: 62.94%
+Preciznost modela je: 66.82%
+F1 skor modela je: 62.66%
+Senzitivnost modela je: 62.94%
+
+136ms/step - accuracy: 0.6781 - loss: 0.7052 - val_accuracy: 0.6067 - val_loss: 1.1548
